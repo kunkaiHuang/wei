@@ -1,4 +1,4 @@
-[![Build Status](http://camo.githubusercontent.com/554e1df927dae34af9835afa325b1502b0be2974/68747470733a2f2f7472617669732d63692e6f72672f6c61726176656c2f6c756d656e2d6672616d65776f726b2e737667)](https://travis-ci.org/laravel/lumen-framework)
+[![Build Status](http://html.fastadmin.net/images/logo.png)
 [![Total Downloads](http://camo.githubusercontent.com/3617eaadf149da3b1af23142bd35e978aa2fdefa/68747470733a2f2f706f7365722e707567782e6f72672f6c61726176656c2f6c756d656e2d6672616d65776f726b2f642f746f74616c2e737667)](https://packagist.org/packages/laravel/lumen-framework)
 [![Latest Stable Version](http://camo.githubusercontent.com/466aa986bc216bcfd88e2fdf663121fa2633d9bb/68747470733a2f2f706f7365722e707567782e6f72672f6c61726176656c2f6c756d656e2d6672616d65776f726b2f762f737461626c652e737667)](https://packagist.org/packages/laravel/lumen-framework)
 [![Latest Unstable Version](http://camo.githubusercontent.com/b5226fc686b162542613991872dbc326276cdc27/68747470733a2f2f706f7365722e707567782e6f72672f6c61726176656c2f6c756d656e2d6672616d65776f726b2f762f756e737461626c652e737667)](https://packagist.org/packages/laravel/lumen-framework)
